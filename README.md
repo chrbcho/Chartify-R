@@ -8,6 +8,11 @@ You can access the deployed dashboard here: https://chrbcho-chartify-shiny.share
 
 ## Run the Dashboard Locally
 
+### Prerequisites
+- [R](https://cran.r-project.org/)
+- [RStudio](https://posit.co/download/rstudio-desktop/)
+
+### Steps
 1. **Clone the repository** and go into the project folder:
    ```bash
    git clone https://github.com/chrbcho/Chartify-shiny.git
