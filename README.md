@@ -4,7 +4,7 @@ Chartify is a data analytics dashboard that leverages Spotify's song features da
 Note: This app is a smaller version of [Chartify](https://github.com/UBC-MDS/DSCI-532_2026_31_Chartify) (coded in Python) and does not contain the same functionalities as its Python counterpart at this moment.
 
 ## Live Dashboard
-You can access the deployed dashboard here: https://chrbcho-chartify-shiny.share.connect.posit.cloud
+You can access the deployed dashboard here: https://chrbcho-chartify-r.share.connect.posit.cloud/
 
 ## Run the Dashboard Locally
 
@@ -16,7 +16,7 @@ You can access the deployed dashboard here: https://chrbcho-chartify-shiny.share
 1. **Clone the repository** and go into the project folder:
    ```bash
    git clone https://github.com/chrbcho/Chartify-R.git
-   cd Chartify-shiny
+   cd Chartify-R
    ```
 
 2. **Open App.R file in RStudio:**
