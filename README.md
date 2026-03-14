@@ -1,4 +1,4 @@
-# Chartify-shiny
+# Chartify-R
 Chartify is a data analytics dashboard that leverages Spotify's song features dataset to uncover patterns and characteristics of successful songs. Built for music producers and A&R professionals, it provides actionable insights on tempo, energy, danceability, and other key metrics that correlate with chart performance and cross-platform popularity. The main goal of this to to help stakeholders make data-driven decisions in hit song production.
 
 Note: This app is a smaller version of [Chartify](https://github.com/UBC-MDS/DSCI-532_2026_31_Chartify) (coded in Python) and does not contain the same functionalities as its Python counterpart at this moment.
@@ -15,7 +15,7 @@ You can access the deployed dashboard here: https://chrbcho-chartify-shiny.share
 ### Steps
 1. **Clone the repository** and go into the project folder:
    ```bash
-   git clone https://github.com/chrbcho/Chartify-shiny.git
+   git clone https://github.com/chrbcho/Chartify-R.git
    cd Chartify-shiny
    ```
 
